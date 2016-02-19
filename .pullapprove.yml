@@ -3,7 +3,6 @@ approve_regex: ^Approved
 reject_regex: ^Rejected
 reset_on_push: false
 reviewers:
-  members:
-  - "all"
+  members: "all"
   name: "Dream Team"
   required: 1
