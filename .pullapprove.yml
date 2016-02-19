@@ -4,6 +4,6 @@ reject_regex: ^Rejected
 reset_on_push: false
 reviewers:
   members:
-  - ssengineering
-  name: default
+  - "all"
+  name: "Dream Team"
   required: 1
